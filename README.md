@@ -1,4 +1,4 @@
-# Projeto Pokedex - Construido para praticar a criação de apps com Swift 
+# Projeto Pokedex 
 
 ## Foi aplicado os seguintes conhecimentos: 
 - ViewCode
